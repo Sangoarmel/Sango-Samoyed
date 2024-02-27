@@ -1,0 +1,95 @@
+.Welcome {
+    background-color: #ff4c68;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5% 2% 0;
+    position: relative;
+}
+bpdy {
+    font-size: 1.5em;
+    zoom: 75%;
+}
+
+.logoimage {
+    width: 18%;
+    border-radius: 100%;
+}
+img {
+   width: 100%;
+}
+.Advertisement {
+    background-color: #eaf6f6;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 3% 2%;
+    text-align: center;
+}
+input {
+    border-radius: 25%;
+}
+.submit:hover {
+    background-color: darkolivegreen;
+
+}
+.form {
+    background-color: #ff4c68;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 3% 2%;
+}
+.colmen {
+    position: absolute;
+    left: 18%;
+    bottom: 10%;
+}
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;   
+}
+button {
+    margin: 1%;
+}
+#dogmenu {
+    font-weight: bold;
+}
+#formid {
+    color: black;
+    font-size: 25px;
+}
+.menu {
+    background-color: #ff4c68;
+}
+.service {
+    background-color: #eaf6f6;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 3% 2%;
+    text-align: center;
+}
+.servimg {
+    width: 75%;
+}
+.servfont {
+    font-size: 500%;
+}
+@media (max-width: 1000px) {
+    .colmen {
+        text-align: left;
+        position: absolute;
+        left: 5%;
+    }
+}
+.facebook {
+    font-size: 23px;
+    margin-top: 75px;
+}
+
